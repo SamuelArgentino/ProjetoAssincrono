@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/2aba859b-42de-4f00-b155-600f85e45077)
 
-Vercel: https://temporizador-fitness.vercel.app/
+Vercel: https://projeto-assincrono.vercel.app/
 
 ## Ferramentas utilizadas:
 
